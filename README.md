@@ -53,5 +53,19 @@ The dashboard provides business insights through interactive visualizations, DAX
 
 The complete dashboard is available in: Dashboard.pdf
 
+# Dashboard Preview
+
+# Executive Dashboard
+
+![Dashboard 1](Dashboard1.png)
+
+Policy Lifecycle & Financial Analysis
+
+![Dashboard 2](Dashboard2.png)
+
+# Business Insights & Recommendations
+
+![Dashboard 3](Dashboard3.png)
+
 👨‍💻 Author
 Manav Vijay
