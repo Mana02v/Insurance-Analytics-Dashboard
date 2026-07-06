@@ -11,6 +11,16 @@ The dashboard provides business insights through interactive visualizations, DAX
 - Power Query
 - DAX
 
+✨ Features
+- Interactive Dashboard
+- Dynamic Slicers
+- Drill Through Navigation
+- Row-Level Security (RLS)
+- Power Query Data Cleaning
+- DAX Measures
+- Business KPI Analysis
+- Financial Performance Analysis
+
 📊 Dashboard 
 1. Executive Dashboard
 - Premium Revenue Analysis
