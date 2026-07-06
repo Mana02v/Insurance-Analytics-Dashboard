@@ -49,6 +49,17 @@ The dashboard provides business insights through interactive visualizations, DAX
 - Power Query Data Cleaning
 - Financial KPI Analysis
 
+💡 Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- DAX
+- Power Query
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- KPI Reporting
+
+
 📄 Project Report
 
 The complete dashboard is available in: Dashboard.pdf
